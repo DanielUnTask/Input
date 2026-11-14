@@ -1,5 +1,7 @@
 # InputSystem
 
+## [WALLY]("https://wally.run/package/danieluntask/input?version=0.0.1")
+
 A modular input management system for Roblox, designed to provide a unified way to handle player input across different devices.
 
 InputSystem separates client-side and server-side responsibilities, allowing developers to manage input contexts, actions, and bindings while supporting multiple input methods.
