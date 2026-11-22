@@ -43,6 +43,7 @@ InputClient.Mouse = Mouse
 InputClient.Touch = Touch
 InputClient.Gamepad = Gamepad
 InputClient.Keyboard = Keyboard
+InputClient.PreferredInput = PreferredInput
 
 --[=[
     Initializes the input client and loads the player's input contexts and actions.

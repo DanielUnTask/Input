@@ -1,7 +1,7 @@
 [package]
 name = "danieluntask/input"
 description = "A modular input management system for Roblox, supporting keyboard, mouse, touch, and gamepad inputs with client-server integration, contexts, and actions."
-version = "0.0.1"
+version = "0.0.2"
 license = "MIT"
 authors = ["DanielUnTask"]
 registry = "https://github.com/UpliftGames/wally-index"

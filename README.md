@@ -1,6 +1,6 @@
 # InputSystem
 
-## [WALLY]("https://wally.run/package/danieluntask/input?version=0.0.1")
+## [WALLY]("https://wally.run/package/danieluntask/input?version=0.0.2")
 
 A modular input management system for Roblox, designed to provide a unified way to handle player input across different devices.
 
